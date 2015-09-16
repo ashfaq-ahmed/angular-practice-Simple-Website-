@@ -1,1 +1,1 @@
-# angular-practice-Simple-Website-
+# Angular practice 1 (Simple website)
